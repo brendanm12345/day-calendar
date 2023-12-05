@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Demo
-![Uploading Screenshot 2023-12-05 at 12.47.27 PM.png…]()
+![Screenshot 2023-12-05 at 12 47 10 PM](https://github.com/brendanm12345/day-calendar/assets/72267866/77ac7530-935e-475f-8951-d990f16b3229)
+
 
 ## Getting Started
 
